@@ -194,7 +194,7 @@ export AUTONOMOUS_WORKER_TMP="/your/custom/path"
 
 ### Core Worker
 - **README.md** — Main usage guide
-- **EXAMPLES.md** — Real-world examples
+- **EXAMPLES_GALLERY.md** — Real examples with GitHub code links ⭐
 - **INSTALL.md** — Installation guide
 
 ### Agency Agents
@@ -207,6 +207,10 @@ export AUTONOMOUS_WORKER_TMP="/your/custom/path"
 
 ### Web Research
 - **web-research/SKILL.md** — Web workflow
+
+### Bundle
+- **QUICKSTART.md** — 5-minute quickstart
+- **INSTALL.sh** — Auto-installer
 
 ---
 
@@ -327,6 +331,10 @@ MIT License — Free to use, modify, and share.
 **Bundle Version:** 1.0  
 **Last Updated:** 2026-03-19  
 **Author:** Kyo 🐋 (with Bell)  
+**Compatible with:** OpenClaw v1.0+
+
+**Ready to use right out of the box!** 🎁🚀
+🐋 (with Bell)  
 **Compatible with:** OpenClaw v1.0+
 
 **Ready to use right out of the box!** 🎁🚀
